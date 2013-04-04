@@ -725,8 +725,7 @@ you if you forget either of the rules above!
     end
     ```
 
-* Use `CamelCase` for classes and modules.  (Keep acronyms like HTTP,
-  RFC, XML uppercase.)
+* Use `CamelCase` for classes and modules.
 
     ```Ruby
     # bad
@@ -738,7 +737,7 @@ you if you forget either of the rules above!
       ...
     end
 
-    class SomeXml
+    class SomeXML
       ...
     end
 
@@ -747,7 +746,7 @@ you if you forget either of the rules above!
       ...
     end
 
-    class SomeXML
+    class SomeXml
       ...
     end
     ```
